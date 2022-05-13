@@ -60,7 +60,7 @@ void studikasus::output()
     cout<<"Nilai UAS          : "<<uas<<endl;
     cout<<"Nilai Akhir        : "<<na<<endl;
     cout<<"Grade nilai yang didapat adalah "<<grade<<endl;
-}
+} 
 
 int main()
 {
