@@ -51,7 +51,7 @@ void studikasus::proses()
 void studikasus::output()
 {
     cout <<"\n========================================" << endl;
-    cout<<"|      Hasil Nilai Akhir Mahasiswa"            <<endl;
+    cout<<"        Hasil Nilai Akhir Mahasiswa"            <<endl;
     cout <<"========================================" << endl;
     cout<<"Nama Mata Kuliah   : "<<matkul<<endl;
     cout<<"Nama Mahasiswa     : "<<nama<<endl;
